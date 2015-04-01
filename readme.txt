@@ -8,7 +8,7 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-An easy way to place a url shortener ultimate with content on your Wordpress site.
+An easy way to place a shortened url on your Wordpress site.
 
 == Description ==
 
